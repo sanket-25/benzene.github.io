@@ -19,6 +19,7 @@
  text-align: left;
  display: flex;  
  position: relative;
+ left: 3%;
  }  
  #center {    
  text-align: center;  
