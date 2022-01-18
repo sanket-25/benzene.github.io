@@ -1,0 +1,31 @@
+
+
+.book--img {
+	width: 15%;
+	height: 15%;
+	padding: 10px;
+}
+
+.Music {
+	text-align: center;
+
+}
+.lofi-music {
+	padding: 5px;
+
+}
+
+#left {    
+ text-align: left;
+ display: flex;  
+ position: relative;
+ }  
+ #center {    
+ text-align: center;  
+ }  
+ #right{    
+ text-align: right;
+ display: flex;  
+ position: relative;
+ left: 47%;
+ }
