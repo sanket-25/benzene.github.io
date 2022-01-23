@@ -4,23 +4,9 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+.html {
+  overflow-x: hidden !important;
+}
 
 
 
@@ -29,6 +15,7 @@
 body {
 	background: #262626;
 	color: white;
+  overflow-x: hidden !important;
 
 }
 
